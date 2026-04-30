@@ -12,5 +12,5 @@ disini saya meggunakan fungsi main untuk menampilkan program ini dimana saya mem
 <br> <img width="1072" height="594" alt="Screenshot 2026-04-30 053235" src="https://github.com/user-attachments/assets/2ea35ee2-4ae1-4762-a2c6-63d7b7d920fe" />
 potongan kode program ini meminta kita untuk menginputkan tinggi badan dalam bentuk angka jika sudah menginputkan semua maka akan di tampilkan sebelum diurutkan dan akan ditampilkan juga ketika sudah urut
 
-
+<br> link penjelasan melalui video : https://youtu.be/Q94lJ1Eh7yE?si=xvD4gFk3it2AyNfR
 
