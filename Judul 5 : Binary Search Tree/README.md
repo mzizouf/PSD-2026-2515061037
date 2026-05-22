@@ -19,3 +19,5 @@ Setelah struktur kelas selesai, baris kode selanjutnya melakukan inisialisasi ob
 Bagian utama program dijalankan dalam loop while True agar sistem tetap berjalan secara interaktif. Di awal setiap iterasi, inventory.print_catalog() dipanggil untuk memastikan pengguna selalu melihat katalog terbaru beserta data stok yang sudah terbarui setelah adanya transaksi yang dilakukan sebelumnya.
 
 Terakhir, blok try-except menangani input pengguna saat melakukan pembelian untuk mencegah crash pada program. Jika pengguna memasukkan SKU, sistem akan memproses transaksi dan menampilkan hasil berupa struk atau pesan error. Program akan berhenti jika pengguna menekan angka '0', dan fungsi input() di akhir digunakan agar pengguna memiliki waktu untuk melihat hasil transaksi sebelum layar dibersihkan kembali.
+
+link youtube : https://youtu.be/ZUSk9ESk8cA
