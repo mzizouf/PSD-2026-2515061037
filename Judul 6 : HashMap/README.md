@@ -19,3 +19,5 @@ Bagian main menjadi tempat inisialisasi dan pengujian sistem. Di sini, berbagai 
 Logika interaksi pengguna terletak di bagian akhir program, di mana sistem meminta input kode ruangan yang ingin dicari. Program kemudian memproses pencarian melalui hashmap.search(x). Sistem ini dirancang untuk memberikan umpan balik instan kepada pengguna mengenai keberadaan data ruangan yang dicari tersebut.
 
 Terakhir, blok kondisional if-elif-else digunakan untuk menampilkan informasi lokasi lantai ruangan. Meskipun saat ini kodenya mengecek rentang angka, struktur ini memberikan alur yang jelas bagi pengguna untuk mengetahui di mana ruangan tersebut berada. Program ini ditutup dengan perlindungan if __name__ == "__main__": agar fungsi main hanya berjalan jika skrip dijalankan secara langsung.
+
+LINK YOUTUBE : https://youtu.be/bnoCc2NR3e8
